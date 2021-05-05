@@ -160,7 +160,7 @@ Cara Mengganti Nya Cukup Gampang, Kalian Hanya Perlu Untuk Mengganti Syntax Di B
 
 ```js
 
-if(apikeyInput != 'MASUKKAN_NAMA_APIKEY') return res.json(loghandler.invalidKey)
+if(apikeyInput != 'Abdillah') return res.json(loghandler.invalidKey)
 
 ```
 
@@ -168,7 +168,7 @@ Atau
 
 ```js
 
-if(apikey != 'MASUKAN_NAMA_APIKEY') return res.json(loghandler.invalidKey)
+if(apikey != 'Abdillah') return res.json(loghandler.invalidKey)
 
 ```
 
